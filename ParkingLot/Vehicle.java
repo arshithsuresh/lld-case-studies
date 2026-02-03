@@ -1,4 +1,4 @@
-package LLD.ParkingLot;
+package ParkingLot;
 
 public abstract class Vehicle {
 
